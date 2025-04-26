@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 # Helios: Learning and Adaptation of Matching Rules for Continual In-Network Malicious Traffic Detection
-![overview](./figs/overview.png)
+![overview](./overview.png)
 
 First, run:
 ```sh
@@ -42,3 +43,7 @@ python incremental_boost.py
 If you need to change the class incremental order or modify the known classes, adjust the `--selected_class` and `--add_order` parameters.
 
 The boosting and incremental training process typically takes around 180 seconds.
+=======
+# Helios
+WWW 2025 (Code is currently being organized and will be released soon.)
+>>>>>>> bccd878adfcb688529e1c7c68b8ca0dc9f1395c3
