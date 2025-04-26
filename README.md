@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Helios: Learning and Adaptation of Matching Rules for Continual In-Network Malicious Traffic Detection
 ![overview](./overview.png)
 
@@ -41,8 +40,3 @@ The `incremental_boost.py` script handles the training process during class incr
 python incremental_boost.py
 ```
 If you need to change the class incremental order or modify the known classes, adjust the `--selected_class` and `--add_order` parameters.
-
-=======
-# Helios
-WWW 2025 (Code is currently being organized and will be released soon.)
->>>>>>> bccd878adfcb688529e1c7c68b8ca0dc9f1395c3
