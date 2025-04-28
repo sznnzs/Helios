@@ -1,10 +1,23 @@
 # Helios: Learning and Adaptation of Matching Rules for Continual In-Network Malicious Traffic Detection
 ![overview](./overview.png)
 
-First, run:
-```sh
-tar -zvxf ./dataset.tar.gz
-```
+## Getting Started
+
+Welcome to Helios! Follow these steps to set up the project environment:
+
+1.  **Install Dependencies:** Ensure you have Python installed. Then, install the required packages using pip:
+    ```sh
+    pip install -r requirements.txt
+    ```
+    This command reads the `requirements.txt` file and installs necessary libraries like NumPy, Scikit-learn, and PyTorch.
+
+2.  **Unpack Dataset:** The dataset is provided as a compressed archive. Unpack it using the following command in your terminal:
+    ```sh
+    tar -zvxf ./dataset.tar.gz
+    ```
+    This will extract the dataset files into the `dataset/` directory.
+
+Now you are ready to explore the project structure and proceed with training or using the models.
 
 ## Project Structure:
 ```bash
