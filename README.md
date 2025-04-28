@@ -80,4 +80,3 @@ This script iteratively performs the following steps:
 - `--add_order`: A list defining the order in which new class indices are introduced incrementally. Use `-1` to signify the end or no new classes in a step.
 - `--prune_T`: Threshold for pruning prototypes based on sample support.
 - `--prune_rule`: Threshold for pruning rules based on sample coverage.
-- `--threshold
